@@ -19,6 +19,13 @@ Classification Problem
 
 ---
 
+### Remove Duplicated Values
+The original dataset contains 1025 rows.
+After identifying 723 duplicate rows, 302 unique samples remained.
+Duplicate rows were removed before model training to reduce repeated observations. 
+
+---
+
 ## 🧠 Models
 Models Used :
 
