@@ -9,13 +9,13 @@ Our Goal is To Find Who Has Heart Disease
 ---
 
 ## 📊 about Dataset 
-Number of Columns : 14
-Number of Rows : 1025
-Number of Duplicates : 723 (We have 302 Rows)
-Number of Nan Values : 0
-Columns : [age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target]
-Target : target
-Classification Problem
+* Number of Columns : 14
+* Number of Rows : 1025
+* Number of Duplicates : 723 (We have 302 Rows)
+* Number of Nan Values : 0
+* Columns : [age , sex , cp , trestbps , chol , fbs , restecg , thalach , exang , oldpeak , slope , ca , thal , target]
+* Target : target
+* Classification Problem
 
 ---
 
